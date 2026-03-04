@@ -8,7 +8,7 @@ This project demonstrates scalable code organization, clear separation of respon
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Clean and modular architecture  
 - Advanced physics and state control  
